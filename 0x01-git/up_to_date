@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> main
-git add .
-git commit -m "README.md updated"
-git pull origin main
-git push origin main
